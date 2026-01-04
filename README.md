@@ -1,2 +1,2 @@
-# MerlinFedOS
-A Fedora-based Linux distribution designed for power users, featuring native RPM support and the Nix package manager integrated out of the box for reproducible, declarative environments.
+# MerlinArch
+A Arch-based Linux distribution designed featuring native pacman support and the Nix package manager integrated out of the box for reproducible, declarative environments.
